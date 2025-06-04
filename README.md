@@ -1,4 +1,4 @@
-# ML Project: Drone Workshop Demand Prediction
+# ML Project: Workshop Demand Prediction
 
 ## Опис
 Цей проєкт реалізує повний цикл машинного навчання — від обробки даних до передбачення на нових даних. Датасет `train.csv` містить історичні дані для навчання моделі.
